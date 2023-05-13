@@ -47,7 +47,14 @@ git clone https://github.com/L4tfr3on/r3drecon.git
 cd r3drecon
 bash installer.sh
 ```
-  
+
+
+ Don't forget to move the file within the system for run the rool in any place in your OS
+ ```sh
+cp r3drecon /root/go/bin
+cp r3drecon /usr/local/bin/
+
+```
 ## Usage 
 
 ```sh
