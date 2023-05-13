@@ -45,7 +45,7 @@ So basically, this is an autmation script for your initial recon in bugbounty
  ```sh
 git clone https://github.com/L4tfr3on/r3drecon.git
 cd r3drecon
-bash install.sh
+bash installer.sh
 ```
   
 ## Usage 
